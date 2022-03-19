@@ -1,0 +1,194 @@
+Country,Alpha2Code,Alpha3Code,UNCode,Region
+Afghanistan,AF,AFG,4,South Asia
+Albania,AL,ALB,8,Europe and Central Asia
+Algeria,DZ,DZA,12,Middle East and North Africa
+Andorra,AD,AND,20,Europe and Central Asia
+Angola,AO,AGO,24,Sub-Saharan Africa
+Antigua and Barbuda,AG,ATG,28,Latin America and Caribbean
+Argentina,AR,ARG,32,Latin America and Caribbean
+Armenia,AM,ARM,51,Europe and Central Asia
+Australia,AU,AUS,36,East Asia and Pacific
+Austria,AT,AUT,40,Europe and Central Asia
+Azerbaijan,AZ,AZE,31,Europe and Central Asia
+Bahamas,BS,BHS,44,Latin America and Caribbean
+Bahrain,BH,BHR,48,Middle East and North Africa
+Bangladesh,BD,BGD,50,South Asia
+Barbados,BB,BRB,52,Latin America and Caribbean
+Belarus,BY,BLR,112,Europe and Central Asia
+Belgium,BE,BEL,56,Europe and Central Asia
+Belize,BZ,BLZ,84,Latin America and Caribbean
+Benin,BJ,BEN,204,Sub-Saharan Africa
+Bhutan,BT,BTN,64,South Asia
+Bolivia,BO,BOL,68,Latin America and Caribbean
+Bosnia and Herzegovina,BA,BIH,70,Europe and Central Asia
+Botswana,BW,BWA,72,Sub-Saharan Africa
+Brazil,BR,BRA,76,Latin America and Caribbean
+Brunei Darussalam,BN,BRN,96,East Asia and Pacific
+Bulgaria,BG,BGR,100,Europe and Central Asia
+Burkina Faso,BF,BFA,854,Sub-Saharan Africa
+Burundi,BI,BDI,108,Sub-Saharan Africa
+Cambodia,KH,KHM,116,East Asia and Pacific
+Cameroon,CM,CMR,120,Sub-Saharan Africa
+Canada,CA,CAN,124,North America
+Cape Verde,cv,CPV,999,Sub-Saharan Africa
+Central African Republic,CF,CAF,140,Sub-Saharan Africa
+Chad,TD,TCD,148,Sub-Saharan Africa
+Chile,CL,CHL,152,Latin America and Caribbean
+China,CN,CHN,156,East Asia and Pacific
+Colombia,CO,COL,170,Latin America and Caribbean
+Comoros,KM,COM,174,Sub-Saharan Africa
+Congo (Republic of the),CG,COG,178,Sub-Saharan Africa
+Costa Rica,CR,CRI,188,Latin America and Caribbean
+Côte d’Ivoire,CI,CIV,384,Sub-Saharan Africa
+Croatia,HR,HRV,191,Europe and Central Asia
+Cuba,CU,CUB,192,Latin America and Caribbean
+Cyprus,CY,CYP,196,Europe and Central Asia
+Czechia,CZ,CZE,203,Europe and Central Asia
+Democratic People’s Republic of Korea,KP,PRK,408,East Asia and Pacific
+Democratic Republic of the Congo,CD,COD,180,Sub-Saharan Africa
+Denmark,DK,DNK,208,Europe and Central Asia
+Djibouti,DJ,DJI,262,Middle East and North Africa
+Dominica,DM,DMA,212,Latin America and Caribbean
+Dominican Republic,DO,DOM,214,Latin America and Caribbean
+Ecuador,EC,ECU,218,Latin America and Caribbean
+Egypt,EG,EGY,818,Middle East and North Africa
+El Salvador,SV,SLV,222,Latin America and Caribbean
+Equatorial Guinea,GQ,GNQ,226,Sub-Saharan Africa
+Eritrea,ER,ERI,232,Sub-Saharan Africa
+Estonia,EE,EST,233,Europe and Central Asia
+Ethiopia,ET,ETH,231,Sub-Saharan Africa
+Fiji,FJ,FJI,242,East Asia and Pacific
+Finland,FI,FIN,246,Europe and Central Asia
+France,FR,FRA,250,Europe and Central Asia
+Gabon,GA,GAB,266,Sub-Saharan Africa
+Gambia,GM,GMB,270,Sub-Saharan Africa
+Georgia,GE,GEO,268,Europe and Central Asia
+Germany,DE,DEU,276,Europe and Central Asia
+Ghana,GH,GHA,288,Sub-Saharan Africa
+Greece,GR,GRC,300,Europe and Central Asia
+Grenada,GD,GRD,308,Latin America and Caribbean
+Guatemala,GT,GTM,320,Latin America and Caribbean
+Guinea,GN,GIN,324,Sub-Saharan Africa
+Guinea-Bissau,GW,GNB,624,Sub-Saharan Africa
+Guyana,GY,GUY,328,Latin America and Caribbean
+Haiti,HT,HTI,332,Latin America and Caribbean
+Honduras,HN,HND,340,Latin America and Caribbean
+Hungary,HU,HUN,348,Europe and Central Asia
+Iceland,IS,ISL,352,Europe and Central Asia
+India,IN,IND,356,South Asia
+Indonesia,ID,IDN,360,East Asia and Pacific
+Iran,IR,IRN,364,Middle East and North Africa
+Iraq,IQ,IRQ,368,Middle East and North Africa
+Ireland,IE,IRL,372,Europe and Central Asia
+Israel,IL,ISR,376,Middle East and North Africa
+Italy,IT,ITA,380,Europe and Central Asia
+Jamaica,JM,JAM,388,Latin America and Caribbean
+Japan,JP,JPN,392,East Asia and Pacific
+Jordan,JO,JOR,400,Middle East and North Africa
+Kazakhstan,KZ,KAZ,398,Europe and Central Asia
+Kenya,KE,KEN,404,Sub-Saharan Africa
+Kiribati,KI,KIR,296,East Asia and Pacific
+Kuwait,KW,KWT,414,Middle East and North Africa
+Kyrgyzstan,KG,KGZ,417,Europe and Central Asia
+Lao People’s Democratic Republic,LA,LAO,418,East Asia and Pacific
+Latvia,LV,LVA,428,Europe and Central Asia
+Lebanon,LB,LBN,422,Middle East and North Africa
+Lesotho,LS,LSO,426,Sub-Saharan Africa
+Liberia,LR,LBR,430,Sub-Saharan Africa
+Libya,LY,LBY,434,Middle East and North Africa
+Liechtenstein,LI,LIE,438,Europe and Central Asia
+Lithuania,LT,LTU,440,Europe and Central Asia
+Luxembourg,LU,LUX,442,Europe and Central Asia
+Madagascar,MG,MDG,450,Sub-Saharan Africa
+Malawi,MW,MWI,454,Sub-Saharan Africa
+Malaysia,MY,MYS,458,East Asia and Pacific
+Maldives,MV,MDV,462,South Asia
+Mali,ML,MLI,466,Sub-Saharan Africa
+Malta,MT,MLT,470,Middle East and North Africa
+Marshall Islands,MH,MHL,584,East Asia and Pacific
+Mauritania,MR,MRT,478,Sub-Saharan Africa
+Mauritius,MU,MUS,480,Sub-Saharan Africa
+Mexico,MX,MEX,484,Latin America and Caribbean
+Micronesia,FM,FSM,583,East Asia and Pacific
+Monaco,MC,MCO,492,Europe and Central Asia
+Mongolia,MN,MNG,496,East Asia and Pacific
+Montenegro,ME,MNE,499,Europe and Central Asia
+Morocco,MA,MAR,504,Middle East and North Africa
+Mozambique,MZ,MOZ,508,Sub-Saharan Africa
+Myanmar,MM,MMR,104,East Asia and Pacific
+Namibia,NA,"NAM",516,Sub-Saharan Africa
+Nauru,NR,NRU,520,East Asia and Pacific
+Nepal,NP,NPL,524,South Asia
+Netherlands,NL,NLD,528,Europe and Central Asia
+New Zealand,NZ,NZL,554,East Asia and Pacific
+Nicaragua,NI,NIC,558,Latin America and Caribbean
+Niger,NE,NER,562,Sub-Saharan Africa
+Nigeria,NG,NGA,566,Sub-Saharan Africa
+Norway,NO,NOR,578,Europe and Central Asia
+Oman,OM,OMN,512,Middle East and North Africa
+Pakistan,PK,PAK,586,South Asia
+Palau,PW,PLW,585,East Asia and Pacific
+Panama,PA,PAN,591,Latin America and Caribbean
+Papua New Guinea,PG,PNG,598,East Asia and Pacific
+Paraguay,PY,PRY,600,Latin America and Caribbean
+Peru,PE,PER,604,Latin America and Caribbean
+Philippines,PH,PHL,608,East Asia and Pacific
+Poland,PL,POL,616,Europe and Central Asia
+Portugal,PT,PRT,620,Europe and Central Asia
+Qatar,QA,QAT,634,Middle East and North Africa
+Republic of Korea,KR,KOR,410,East Asia and Pacific
+Republic of Moldova,MD,MDA,498,Europe and Central Asia
+Romania,RO,ROU,642,Europe and Central Asia
+Russian Federation,RU,RUS,643,Europe and Central Asia
+Rwanda,RW,RWA,646,Sub-Saharan Africa
+Saint Kitts and Nevis,KN,KNA,659,Latin America and Caribbean
+Saint Lucia,LC,LCA,662,Latin America and Caribbean
+Saint Vincent and the Grenadines,VC,VCT,670,Latin America and Caribbean
+Samoa,WS,WSM,882,East Asia and Pacific
+San Marino,SM,SMR,674,Europe and Central Asia
+Sao Tome and Principe,ST,STP,678,Sub-Saharan Africa
+Saudi Arabia,SA,SAU,682,Middle East and North Africa
+Senegal,SN,SEN,686,Sub-Saharan Africa
+Serbia,RS,SRB,688,Europe and Central Asia
+Seychelles,SC,SYC,690,Sub-Saharan Africa
+Sierra Leone,SL,SLE,694,Sub-Saharan Africa
+Singapore,SG,SGP,702,East Asia and Pacific
+Slovakia,SK,SVK,703,Europe and Central Asia
+Slovenia,SI,SVN,705,Europe and Central Asia
+Solomon Islands,SB,SLB,90,East Asia and Pacific
+Somalia,SO,SOM,706,Sub-Saharan Africa
+South Africa,ZA,ZAF,710,Sub-Saharan Africa
+South Sudan,SS,SSD,728,Sub-Saharan Africa
+Spain,ES,ESP,724,Europe and Central Asia
+Sri Lanka,LK,LKA,144,South Asia
+Sudan,SD,SDN,729,Sub-Saharan Africa
+Suriname,SR,SUR,740,Latin America and Caribbean
+Swaziland,SZ,SWZ,748,Sub-Saharan Africa
+Switzerland,CH,CHE,756,Europe and Central Asia
+Sweden,SE,SWE,752,Europe and Central Asia
+Syria,SY,SYR,760,Middle East and North Africa
+Tajikistan,TJ,TJK,762,Europe and Central Asia
+Thailand,TH,THA,764,East Asia and Pacific
+North Macedonia,MK,MKD,807,Europe and Central Asia
+Timor Leste,TL,TLS,626,East Asia and Pacific
+Togo,TG,TGO,768,Sub-Saharan Africa
+Tonga,TO,TON,776,East Asia and Pacific
+Trinidad and Tobago,TT,TTO,780,Latin America and Caribbean
+Tunisia,TN,TUN,788,Middle East and North Africa
+Turkey,TR,TUR,792,Europe and Central Asia
+Turkmenistan,TM,TKM,795,Europe and Central Asia
+Tuvalu,TV,TUV,798,East Asia and Pacific
+Uganda,UG,UGA,800,Sub-Saharan Africa
+Ukraine,UA,UKR,804,Europe and Central Asia
+United Arab Emirates,AE,ARE,784,Middle East and North Africa
+United Kingdom,GB,GBR,826,Europe and Central Asia
+United of Republic of Tanzania,TZ,TZA,834,Sub-Saharan Africa
+United States,US,USA,840,North America
+Uruguay,UY,URY,858,Latin America and Caribbean
+Uzbekistan,UZ,UZB,860,Europe and Central Asia
+Vanuatu,VU,VUT,548,East Asia and Pacific
+Venezuela,VE,VEN,862,Latin America and Caribbean
+Vietnam,VN,VNM,704,East Asia and Pacific
+Yemen,YE,YEM,887,Middle East and North Africa
+Zambia,ZM,ZMB,894,Sub-Saharan Africa
+Zimbabwe,ZW,ZWE,716,Sub-Saharan Africa
